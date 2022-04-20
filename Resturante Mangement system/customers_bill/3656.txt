@@ -1,0 +1,16 @@
+	 Welcome Retail
+ Bill Number : 3656
+ Customer Name : fewg
+ Phone Number : dfef
+======================================
+Product		QTY		Price
+======================================
+ Bath Soap 		1		40
+ Wheat 		2		480
+ Frooti 		2		100
+--------------------------------------
+Cosmetics Tax			Rs. 2.0
+Grocery Tax			Rs. 48.0
+Coldrink Tax			Rs. 5.0
+======================================
+Total bill : 			 Rs. 675.0

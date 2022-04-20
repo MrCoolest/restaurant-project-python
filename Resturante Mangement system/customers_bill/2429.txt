@@ -1,0 +1,16 @@
+	 Welcome Retail
+ Bill Number : 2429
+ Customer Name : 1v f
+ Phone Number : 2fdvsf
+======================================
+Product		QTY		Price
+======================================
+ Bath Soap 		1		40
+ Wheat 		3		720
+ Frooti 		2		100
+--------------------------------------
+Cosmetics Tax			Rs. 2.0
+Grocery Tax			Rs. 72.0
+Coldrink Tax			Rs. 5.0
+======================================
+Total bill : 			 Rs. 939.0

@@ -1,0 +1,15 @@
+	 Welcome Retail
+ Bill Number : 2332
+ Customer Name : dfhdrt
+ Phone Number : 549595
+======================================
+Product		QTY		Price
+======================================
+ Gel 		2		280
+ Lotion 		1		180
+ Coca Cola 		1		60
+--------------------------------------
+Cosmetics Tax			Rs. 23.0
+Coldrink Tax			Rs. 3.0
+======================================
+Total bill : 			 Rs. 546.0

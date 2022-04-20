@@ -1,0 +1,13 @@
+	 Welcome Retail
+ Bill Number : 4487
+ Customer Name : yxyt
+ Phone Number : 481356415
+======================================
+Product		QTY		Price
+======================================
+ Coca Cola 		5		300
+ Limca 		2		80
+--------------------------------------
+Coldrink Tax			Rs. 19.0
+======================================
+Total bill : 			 Rs. 399.0

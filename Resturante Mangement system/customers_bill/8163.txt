@@ -1,0 +1,12 @@
+	 Welcome Retail
+ Bill Number : 8163
+ Customer Name : dfgsr
+ Phone Number : afge
+======================================
+Product		QTY		Price
+======================================
+ Loshan 		1		180
+--------------------------------------
+Cosmetics Tax			Rs. 9.0
+======================================
+Total bill : 			 Rs. 189.0
